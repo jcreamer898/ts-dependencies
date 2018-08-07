@@ -1,5 +1,5 @@
-import two from 'project-two';
-import three from 'project-three';
+import two from '@jcreamer898/project-two';
+import three from '@jcreamer898/project-three';
 
 two();
 three();
